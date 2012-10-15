@@ -1,0 +1,1 @@
+﻿update VIP2012_itemvalues set data = '-123' where id = 11
