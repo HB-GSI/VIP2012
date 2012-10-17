@@ -91,11 +91,11 @@ Lizenziert unter EUPL V. 1.1</Property>
 		<Item Name="Write Element of Sections.vi" Type="VI" URL="../Write Element of Sections.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%U.P&lt;G:J:X6S982J&lt;WYO&lt;(:M;7)61W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!"&amp;$&lt;WZG;7&gt;V=G&amp;U;7^O)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$:!=!!?!!!F%U.P&lt;G:J:X6S982J&lt;WYO&lt;(:M;7)05W6D&gt;'FP&lt;CZM&gt;G.M98.T!!&gt;4:7.U;7^O!!N!!Q!&amp;;7ZE:8A!2E"Q!"Y!!#M41W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;GRJ9B6$&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!%%.P&lt;G:J:X6S982J&lt;WYA;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!=!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%!!!!!A!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!I!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">134217728</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
 		</Item>
 		<Item Name="Read Element of Sections by Name.vi" Type="VI" URL="../Read Element of Sections by Name.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'O!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"E:P&gt;7ZE0Q!!.E"Q!"Y!!#541W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;GRJ9A^4:7.U;7^O,GRW9WRB=X-!"V.F9X2J&lt;WY!2E"Q!"Y!!#M41W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;GRJ9B6$&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!%5.P&lt;G:J:X6S982J&lt;WYA&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!-0````]-5W6D&gt;'FP&lt;C"/97VF!!"'1(!!(A!!+R.$&lt;WZG;7&gt;V=G&amp;U;7^O,GRW&lt;'FC&amp;5.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!11W^O:GFH&gt;8*B&gt;'FP&lt;C"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!"Q!*!!I$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!##!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
@@ -123,6 +123,15 @@ Lizenziert unter EUPL V. 1.1</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1350574612</Property>
+		</Item>
+		<Item Name="Append Section Element.vi" Type="VI" URL="../Append Section Element.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'-!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%U.P&lt;G:J:X6S982J&lt;WYO&lt;(:M;7)61W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!"&amp;$&lt;WZG;7&gt;V=G&amp;U;7^O)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$:!=!!?!!!F%U.P&lt;G:J:X6S982J&lt;WYO&lt;(:M;7)05W6D&gt;'FP&lt;CZM&gt;G.M98.T!!&gt;4:7.U;7^O!%:!=!!?!!!L%U.P&lt;G:J:X6S982J&lt;WYO&lt;(:M;7)61W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!""$&lt;WZG;7&gt;V=G&amp;U;7^O)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!(!!1!#!-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!!!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 	</Item>
 	<Item Name="protected" Type="Folder">

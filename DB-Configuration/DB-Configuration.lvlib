@@ -11,7 +11,7 @@
 	<Property Name="Enable Data Logging" Type="Bool">true</Property>
 	<Property Name="NI.Lib.Description" Type="Str">This library extends Configuration.lvlib and contains classes to read and write configuration data to an ODBC database.
 
-Assuming following table names prefixed with constant defined in &lt;b&gt;Table Prefix.vi&lt;/b&gt;: Classes, Sections, Items, ItemValues. Refer to SQL scripts.
+Assuming following table names prefixed with constant defined in &lt;b&gt;DB-Schema.vi&lt;/b&gt; and&lt;b&gt;Table Prefix.vi&lt;/b&gt;: Classes, Sections, Items, ItemValues. Refer to SQL scripts.
 
 Conditional Disable Symbols:
 DB_AutoIncrement = (No:Default, Yes)

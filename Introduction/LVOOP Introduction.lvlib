@@ -51,6 +51,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Examples" Type="Folder">
 		<Item Name="OO" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Sections" Type="Folder">
 				<Item Name="Section 1.lvclass" Type="LVClass" URL="../Examples/Classes/Section 1/Section 1.lvclass"/>
 				<Item Name="Section 2.lvclass" Type="LVClass" URL="../Examples/Classes/Section 2/Section 2.lvclass"/>
@@ -58,6 +59,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			</Item>
 			<Item Name="Demo_OO.ini" Type="Document" URL="../Examples/OO Configuration/Demo_OO.ini"/>
 			<Item Name="Read Configuration OO.vi" Type="VI" URL="../Examples/OO Configuration/Read Configuration OO.vi"/>
+			<Item Name="Read &amp; Wirte Configuration OO.vi" Type="VI" URL="../Examples/OO Configuration/Read &amp; Wirte Configuration OO.vi"/>
 		</Item>
 		<Item Name="Standard" Type="Folder">
 			<Item Name="Demo.ini" Type="Document" URL="../Examples/STD Configuration/Demo.ini"/>
