@@ -78,6 +78,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	</Item>
 	<Item Name="Examples" Type="Folder">
 		<Item Name="Read Configuration OO-DB.vi" Type="VI" URL="../Examples/Read Configuration OO-DB.vi"/>
+		<Item Name="Read &amp; Write Configuration OO-DB.vi" Type="VI" URL="../Examples/Read &amp; Write Configuration OO-DB.vi"/>
 	</Item>
 	<Item Name="ODBC-Interface.lvclass" Type="LVClass" URL="../ODBC-Interface/ODBC-Interface.lvclass"/>
 	<Item Name="DB-Schema.vi" Type="VI" URL="../DB-Schema.vi"/>
