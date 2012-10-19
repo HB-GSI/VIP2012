@@ -2,7 +2,7 @@
 <Project Type="Project" LVVersion="12008004">
 	<Property Name="CCSymbols" Type="Str">DB_AutoIncrement,Yes;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Property Name="NI.Project.Description" Type="Str">This project contains an introduction to LVOOP dealing with configuration data as an example..
+	<Property Name="NI.Project.Description" Type="Str">This project contains an introduction to LVOOP dealing with configuration data as an example.
 
 Author: H.Brand@gsi.de
 
@@ -32,6 +32,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Item Name="LVOOP_vip2012.pptx" Type="Document" URL="../Docs/LVOOP_vip2012.pptx"/>
 			<Item Name="VIP2012_Workshop_Manual.docx" Type="Document" URL="../Docs/VIP2012_Workshop_Manual.docx"/>
 			<Item Name="VIP2012 Configuration DB.tiff" Type="Document" URL="../Docs/VIP2012 Configuration DB.tiff"/>
+			<Item Name="README.txt" Type="Document" URL="../README.txt"/>
 		</Item>
 		<Item Name="EUPL v.1.1 - Lizenz.pdf" Type="Document" URL="../EUPL v.1.1 - Lizenz.pdf"/>
 		<Item Name="EUPL v.1.1 - Lizenz.rtf" Type="Document" URL="../EUPL v.1.1 - Lizenz.rtf"/>
