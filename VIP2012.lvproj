@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="12008004">
-	<Property Name="CCSymbols" Type="Str">DB_AutoIncrement,No;</Property>
+	<Property Name="CCSymbols" Type="Str">DB_AutoIncrement,Yes;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str">This project contains an introduction to LVOOP dealing with configuration data as an example..
 
