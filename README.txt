@@ -2,7 +2,7 @@ This LabVIEW project "VIP2012.lvproj" contains an introduction into object-orien
 
 As an example a Configuration.lvclass is used read and write configuration data to file (*.ini) or database unsing an Interface.lvclass. The data itself is stored in an array of Section.lvclass objects.
 
-Refer to VIP2012/Docs for the introductory talk "LVOOP_vip2012.pptx" and the workshop manual "VIP2012_Workshop_Manual.docx".
+Refer to VIP2012/Docs for the introductory talk "LVOOP_vip2012_e.pptx" and the workshop manual "VIP2012_Workshop_Manual_e.docx".
 
 
 Author: H.Brand@gsi.de
