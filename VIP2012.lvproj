@@ -130,7 +130,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Property Name="INST_productName" Type="Str">EUPL Templates</Property>
 				<Property Name="INST_productVersion" Type="Str">1.0.0</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
-				<Property Name="InstSpecVersion" Type="Str">12008029</Property>
+				<Property Name="InstSpecVersion" Type="Str">12018008</Property>
 				<Property Name="MSI_arpCompany" Type="Str">GSI Helmholtzzentrum für Schwerionenforschung GmbH</Property>
 				<Property Name="MSI_arpPhone" Type="Str">+49 6159 71 0</Property>
 				<Property Name="MSI_arpURL" Type="Str">http://www.gsi.de</Property>
