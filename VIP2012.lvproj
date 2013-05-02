@@ -35,6 +35,8 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Item Name="README.txt" Type="Document" URL="../README.txt"/>
 			<Item Name="LVOOP_vip2012_e.pptx" Type="Document" URL="../Docs/LVOOP_vip2012_e.pptx"/>
 			<Item Name="VIP2012_Workshop_Manual_e.docx" Type="Document" URL="../Docs/VIP2012_Workshop_Manual_e.docx"/>
+			<Item Name="Class Diagram.png" Type="Document" URL="../UML/Class Diagram.png"/>
+			<Item Name="Class Diagram.uml" Type="Document" URL="../UML/Class Diagram.uml"/>
 		</Item>
 		<Item Name="EUPL v.1.1 - Lizenz.pdf" Type="Document" URL="../EUPL v.1.1 - Lizenz.pdf"/>
 		<Item Name="EUPL v.1.1 - Lizenz.rtf" Type="Document" URL="../EUPL v.1.1 - Lizenz.rtf"/>
