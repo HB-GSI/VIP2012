@@ -4,6 +4,8 @@ As an example a Configuration.lvclass is used read and write configuration data 
 
 Refer to VIP2012/Docs for the introductory talk "LVOOP_vip2012_e.pptx" and the workshop manual "VIP2012_Workshop_Manual_e.docx".
 
+Hint: If you do not have the Database Connectivity Toolset installed, you need to remove DB_Configuration.lvlib from the project and restart LabVIEW.
+
 
 Author: H.Brand@gsi.de
 
