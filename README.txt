@@ -1,4 +1,4 @@
-This project in maintaint at https://git.gsi.de/EE-LV/Libraries/VIP2012
+This project in maintained at https://git.gsi.de/EE-LV/Libraries/VIP2012
 
 This LabVIEW project "VIP2012.lvproj" contains an introduction into object-oriented programming with LabVIEW.
 
