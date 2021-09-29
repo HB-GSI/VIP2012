@@ -1,3 +1,5 @@
+This project in maintaint at https://git.gsi.de/EE-LV/Libraries/VIP2012
+
 This LabVIEW project "VIP2012.lvproj" contains an introduction into object-oriented programming with LabVIEW.
 
 As an example a Configuration.lvclass is used read and write configuration data to file (*.ini) or database unsing an Interface.lvclass. The data itself is stored in an array of Section.lvclass objects.
@@ -9,14 +11,14 @@ Hint: If you do not have the Database Connectivity Toolset installed, you need t
 
 Author: H.Brand@gsi.de
 
-Copyright 2011  GSI Helmholtzzentrum f¸r Schwerionenforschung GmbH
+Copyright 2011  GSI Helmholtzzentrum f√ºr Schwerionenforschung GmbH
 
 Planckstr.1, 64291 Darmstadt, Germany
 
-Lizenziert unter der EUPL, Version 1.1 oder - sobald diese von der Europ‰ischen Kommission genehmigt wurden - Folgeversionen der EUPL ("Lizenz"); Sie d¸rfen dieses Werk ausschlieﬂlich gem‰ﬂ dieser Lizenz nutzen.
+Lizenziert unter der EUPL, Version 1.1 oder - sobald diese von der Europ√§ischen Kommission genehmigt wurden - Folgeversionen der EUPL ("Lizenz"); Sie d√ºrfen dieses Werk ausschlie√ülich gem√§√ü dieser Lizenz nutzen.
 
 Eine Kopie der Lizenz finden Sie hier: http://www.osor.eu/eupl
 
-Sofern nicht durch anwendbare Rechtsvorschriften gefordert oder in schriftlicher Form vereinbart, wird die unter der Lizenz verbreitete Software "so wie sie ist", OHNE JEGLICHE GEWƒHRLEISTUNG ODER BEDINGUNGEN - ausdr¸cklich oder stillschweigend - verbreitet.
+Sofern nicht durch anwendbare Rechtsvorschriften gefordert oder in schriftlicher Form vereinbart, wird die unter der Lizenz verbreitete Software "so wie sie ist", OHNE JEGLICHE GEW√ÑHRLEISTUNG ODER BEDINGUNGEN - ausdr√ºcklich oder stillschweigend - verbreitet.
 
-Die sprachspezifischen Genehmigungen und Beschr‰nkungen unter der Lizenz sind dem Lizenztext zu entnehmen.
+Die sprachspezifischen Genehmigungen und Beschr√§nkungen unter der Lizenz sind dem Lizenztext zu entnehmen.
